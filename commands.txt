@@ -1,0 +1,23 @@
+This is the help page
+
+Autherization commands:
+spotify login --> proceed login and save credentials
+spotfiy logout
+
+Play/Pause:
+spotify pause
+spotify resume
+spotify play <song/artist>
+spotify play playlist <playlist>
+spotify get-current --> get the name of the current song
+spotify shuffle --> play in shuffle
+spotify play_radio <search_item>
+spotify next
+spotify previous
+spotify play genre <genre> --> search the genre and play something random from the genre
+
+Managing volume:
+spotify volume up <value> --> default value = 10
+spotify volume down
+spotify volume set <value> --> value must be given
+
